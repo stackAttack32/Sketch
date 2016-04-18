@@ -1,2 +1,2 @@
 # Sketch
-Dumping ground for new ideas
+This is a dumping ground for new ideas.
